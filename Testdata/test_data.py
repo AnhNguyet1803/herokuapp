@@ -8,7 +8,7 @@ class Data():
     USERNAME = 'tomsmith'
     FAKE_USERNAME = 'nguyetpa'
     PASSWORD = 'SuperSecretPassword!'
-    FAKE_USERNAME = 'SuperSecretPassword'
+    FAKE_PASSWORD = 'SuperSecretPassword'
     BROWSER = 'Chrome'
 
     ACCOUNT_CSV_FILE = './Testdata/accounts.csv'
